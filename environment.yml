@@ -1,0 +1,8 @@
+name: rl_env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - gym=0.25.2
+  - torch=2.1.1
+  - numpy=1.26.2
